@@ -31,8 +31,8 @@ Fitness, basketball, badminton
 
 
 ### 📫more repo📫
-![Read more](https://github-readme-stats.vercel.app/api/pin/?username=WentaoZheng945&repo=Lattice-Planner)(https://github.com/anuraghazra/github-readme-stats)
-![Read more](https://github-readme-stats.vercel.app/api/pin/?username=WentaoZheng945&repo=Cut-in-Scenarios)(https://github.com/anuraghazra/github-readme-stats)
+![Read more](https://github-readme-stats.vercel.app/api/pin/?username=WentaoZheng945&repo=Lattice-Planner)
+![Read more](https://github-readme-stats.vercel.app/api/pin/?username=WentaoZheng945&repo=Cut-in-Scenarios)
 
 ### 🤔Things I code with🤔
 ![python](https://img.shields.io/badge/python-3.9-orange)
