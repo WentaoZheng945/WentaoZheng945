@@ -27,7 +27,7 @@ Fitness, basketball, badminton
 
 ### ⚡stats⚡
 ![Wentao Zheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=WentaoZheng945&count_private=true&show_icons=true&theme=radical)
-![Languange stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WentaoZheng945&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+![Languange stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WentaoZheng945&layout=compact)
 
 
 ### 📫more repo📫
