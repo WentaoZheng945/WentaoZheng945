@@ -17,7 +17,7 @@ Fitness, basketball, badminton
 </div>
 
 <div style="float: left; margin-right: 20px; text-align: center;">
-  <img src="tongji.png" alt="tongji Logo" width="100"/>
+  <img align='right' src="tongji.png" alt="tongji Logo" width="100"/>
   <div><strong>Master Student</strong></div>
   <div><em>2022.9 - now</em></div>
 </div>
@@ -27,6 +27,8 @@ Fitness, basketball, badminton
 
 ### ⚡stats⚡
 ---
+![Wentao Zheng's GitHub stats]<image align='left' src="https://github-readme-stats.vercel.app/api?username=WentaoZheng945&count_private=true&show_icons=true&theme=radical">
+![Languange stats]<image align='right' src="[https://github-readme-stats.vercel.app/api?username=WentaoZheng945&count_private=true&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=WentaoZheng945&layout=compact)">
 ![Wentao Zheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=WentaoZheng945&count_private=true&show_icons=true&theme=radical)
 ![Languange stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WentaoZheng945&layout=compact)
 
