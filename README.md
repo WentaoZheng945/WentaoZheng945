@@ -11,13 +11,13 @@ Fitness, basketball, badminton
 ### 🌱Education🌱
 ---
 <div style="float: left; margin-right: 20px; text-align: center;">
-  <img src="swjtu.png" alt="southwest jiaotong university Logo" width="50"/>
+  <img src="swjtu.png" alt="southwest jiaotong university Logo" width="10"/>
   <div><strong>Bachelor</strong></div>
   <div><em>2018.9 - 2022.6</em></div>
 </div>
 
 <div style="float: left; margin-right: 20px; text-align: center;">
-  <img src="tongji.png" alt="tongji Logo" width="50"/>
+  <img src="tongji.png" alt="tongji Logo" width="10"/>
   <div><strong>Master Student</strong></div>
   <div><em>2022.9 - now</em></div>
 </div>
