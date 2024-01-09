@@ -25,11 +25,15 @@ Fitness, basketball, badminton
 <!-- Clear floats after the columns -->
 <div style="clear: both;"></div>
 
-### stats
+### ⚡stats⚡
 
 ![Wentao Zheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=WentaoZheng945&count_private=true&show_icons=true&theme=radical)
 
-https://img.shields.io/badge/python-3.9-orange
+### 🤔Things I code with🤔
+![python](https://img.shields.io/badge/python-3.9-orange)
+![git](https://img.shields.io/badge/-git-green)
+![docker](https://img.shields.io/badge/-docker-blue)
+![pytorch](https://img.shields.io/badge/-pytorch-yellow)
 
 <!--
 **WentaoZheng945/WentaoZheng945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
