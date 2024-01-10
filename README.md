@@ -4,7 +4,7 @@
 ---
 I am currently a second-year master's student specializing in Transportation Engineering at Tongji University. I am part of the Traffic Operation and Simulation group [(TOPs)](https://tops.tongji.edu.cn/)), led by Professor Jian Sun. My supervisor is Associate Professor [Tian Ye](https://tops.tongji.edu.cn/info/1031/1185.htm). My research primarily revolves around accelerating testing procedures for autonomous vehicles and the automated generation of driving scenarios.
 
-Emial:swjtu_zwt@163.com
+Emial: swjtu_zwt@163.com
 
 ### 😄Interests😄
 ---
@@ -28,8 +28,8 @@ Fitness, basketball, badminton
 
 ### ⚡stats⚡
 ---
-![Wentao Zheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=WentaoZheng945&count_private=true&show_icons=true&theme=radical)
-![Languange stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WentaoZheng945&layout=compact)
+![Wentao Zheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=WentaoZheng945&count_private=true&show_icons=true&theme=radical&card_width=500)
+![Languange stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WentaoZheng945&layout=compact&card_width=400)
 
 
 ### 📫more repo📫
